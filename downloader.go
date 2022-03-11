@@ -1,4 +1,4 @@
-package go-cli-downloader
+package clidownloader
 
 import (
 	"fmt"
