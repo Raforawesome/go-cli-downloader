@@ -1,4 +1,4 @@
-module fancy-cli-downloader
+module git.raforawesome.win/Raforawesome/go-cli-downloader
 
 go 1.17
 
